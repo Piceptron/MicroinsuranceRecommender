@@ -3,5 +3,5 @@ mysqlclient==1.4.4
 boto3==1.9.215
 tensorflow==1.14.0
 Keras==2.2.5
-numpy==1.17.0
+numpy==1.22.0
 sklearn==0.0
