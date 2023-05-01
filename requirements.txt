@@ -1,4 +1,4 @@
-Flask==1.1.1
+Flask==2.3.2
 mysqlclient==1.4.4
 boto3==1.9.215
 tensorflow==1.14.0
